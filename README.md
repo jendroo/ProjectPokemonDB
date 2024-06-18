@@ -17,10 +17,21 @@ Have a well organized pokemon database, that quickly let's you access all wanted
 - Have data of all generation 1 pokemon
 - Show detailed individual information
 - Show "Pokedex"
-- Create favorite
+- Create favorite lists
+- And hopefully more to come
 
 ## How to use
 
+### Prequsites
+- [postgresql](https://www.postgresql.org/)
+- [psycopg](https://www.psycopg.org/)
+
+Initiate the database
+- Open a postgres terminal in the project directory
+- First run `\i sql/tables.sql`
+- Then run `\i sql/datatransfer.sql`
+- In a bash terminal from the directory run `python3 src/main.py -h` for further instructions
+- And of course you can run any queries you want on top to the built-in options
 
 
 ### Challenges
