@@ -34,6 +34,8 @@ Initiate the database
 - And of course you can run any queries you want on top to the built-in options
 
 
+## About
+
 ### Challenges
 - lessons on different elements were taught in a vacuum
 - connecting everything correctly
