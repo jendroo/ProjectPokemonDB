@@ -2,11 +2,26 @@
 
 ## learning project
 ### mvp - shows base functionality. Infinite room for improvements
+The topic of this database was chosen because of my passion for pokemon as a child. Originally I started to create a book database,
+but since it was covered in the course as example, I wanted to do something else. This database is limited to the first generation of pokemon, because that's all I know.
 
 ### Goals
 - Combine the lessons of python, argparse and sql
 - Show CRUD actions on DB
 - functionality via terminal
+
+## Mission Statement:
+Have a well organized pokemon database, that quickly let's you access all wanted information.
+
+## Mission Objectives
+- Have data of all generation 1 pokemon
+- Show detailed individual information
+- Show "Pokedex"
+- Create favorite
+
+## How to use
+
+
 
 ### Challenges
 - lessons on different elements were taught in a vacuum
